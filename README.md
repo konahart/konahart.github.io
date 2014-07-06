@@ -1,4 +1,4 @@
 Georgia Reh's blog
 ====================
 
-Layout cloned from http://kebno.github.io
+Layout cloned from https://kebno.github.io
