@@ -16,10 +16,10 @@ I'm a mathematician. Sometimes I build robots.
 </ul>
 
 ## Current Projects
-Cockroaches:
-http://georgiareh.com/cockroaches
-Math in python:
-https://github.com/Greh/coconuts
+Cockroaches:  
+http://georgiareh.com/cockroaches  
+Math in python:  
+https://github.com/Greh/coconuts  
 
 
 
