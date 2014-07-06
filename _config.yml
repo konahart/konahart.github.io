@@ -1,0 +1,3 @@
+server: true
+baseurl: https://greh.github.io
+markdown: kramdown
