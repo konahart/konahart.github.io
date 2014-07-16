@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h3>Contact Information</h3>
+
 <p>georgiareh.com <br />
 georgia.reh@gmail.com <br />
 http://github.com/greh <br />
