@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h2>Georgia Reh</h2>
-
 <p>georgiareh.com <br />
 georgia.reh@gmail.com <br />
 http://github.com/greh <br />
