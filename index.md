@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<h1><a href="/">Georgia Reh</a></h1>
-I'm a mathematician. Sometimes I build robots.
-
-
-----------
-
 ## Blog Posts
 <ul class="posts">
 {% for post in site.posts %}
@@ -16,10 +10,11 @@ I'm a mathematician. Sometimes I build robots.
 </ul>
 
 ## Current Projects
-Cockroaches:  
-http://georgiareh.com/cockroaches  
-Math in python:  
-https://github.com/Greh/coconuts  
+
+<ul class="posts">
+<li><span>Hardware</span> &raquo; <a href="http://georgiareh.com/cockroaches">Cockroaches</a></li>
+<li><span>Software</span> &raquo; <a href="http://github.com/greh/coconuts">Math in Python</a></li>
+</ul> 
 
 
 

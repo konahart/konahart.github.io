@@ -1,3 +1,21 @@
-server: true
-baseurl: https://greh.github.io
-markdown: kramdown
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    kramdown
+permalink:   /:year/:month/:title
+
+title:       Georgia Reh 
+description: I'm a mathematician. Sometimes I build robots.
+base:        http://greh.github.io/
+author:      Georgia 'greh' Reh 
+email:       georgia.reh@gmail.com 
+
+exclude:     [drafts, _site, scripts]
+
