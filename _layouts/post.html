@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+<h3 style="float:left; margin-top: 10px;">{{ page.title }}</h3>
+<h3 style="float:right; margin-top: 10px;">{{ page.date | date: "%B %d, %Y" }}</h3>
+<hr>
 <div id="post">
-	<h1><a href="{{ site.baseurl }}">Georgia Reh - Blog</a></h1>
-	<hr>
-	<p><h2>{{ page.title }} - ({{ page.date | date_to_string }})</h2></p>
 	{{ content }}
 </div>
