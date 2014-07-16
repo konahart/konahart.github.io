@@ -7,7 +7,7 @@ layout: default
 <ul class="posts">
 <li><span>Teensy Arduino</span> &raquo; <a href="http://www.pjrc.com/teensy/index.html">PJRC</a></li>
 
-<li><span>Motors</span> &raquo; <a href="https://www.sparkfun.com/products/retired/9608">Sparkfun</a> <a href="https://www.sparkfun.com/datasheets/Robotics/ROB-09608.jpg"Datasheet</a></li>
+<li><span>Motors</span> &raquo; <a href="https://www.sparkfun.com/products/retired/9608">Sparkfun</a> <a href="https://www.sparkfun.com/datasheets/Robotics/ROB-09608.jpg">Datasheet</a></li>
 
 <li><span>Photoresistor</span> &raquo; <a href="https://www.sparkfun.com/products/9088">Sparkfun</a> <a href="http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/LightImaging/SEN-09088.pdf">Datasheet</a></li>
 
