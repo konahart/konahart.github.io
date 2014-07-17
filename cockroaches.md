@@ -2,7 +2,6 @@
 layout: default
 ---
 
-##About
 
 I am building annoying little scuttlebots to scurry around the floor. I lovingly refer to them as cockroaches. This is my first engineering project.
 
