@@ -2,6 +2,7 @@
 layout: default
 ---
 
+##Overview
 
 I am building annoying little scuttlebots to scurry around the floor. I lovingly refer to them as cockroaches. This is my first engineering project.
 
@@ -11,7 +12,7 @@ With help and guidance from Bart Massey and Jenner Hanni.
 <ul class="posts">
 <li><span>Teensy Arduino</span> &raquo; <a href="http://www.pjrc.com/teensy/index.html">PJRC</a></li>
 
-<li><span>Teensy Arduino</span> &raquo; <a href="https://www.adafruit.com/products/1438">Adafruit</a></li>
+<li><span>Arduino Shield</span> &raquo; <a href="https://www.adafruit.com/products/1438">Adafruit</a></li>
 
 <li><span>Motors</span> &raquo; <a href="https://www.sparkfun.com/products/retired/9608">Sparkfun</a> <a href="https://www.sparkfun.com/datasheets/Robotics/ROB-09608.jpg">Datasheet</a></li>
 
