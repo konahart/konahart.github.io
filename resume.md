@@ -4,7 +4,7 @@ layout: default
 
 <h3>Contact Information</h3>
 
-<p>laurel.elise.hart@gmail.com <br />
+<p><a href="mailto:laurel.elise.hart@gmail.com">laurel.elise.hart@gmail.com </a><br />
 <a href="http://github.com/konayashi">Github</a>: <a href="http://github.com/konayashi">http://github.com/konayashi</a><br />
 <a href="https://www.linkedin.com/in/laurelehart">LinkedIn</a>: <a href="https://www.linkedin.com/in/laurelehart">https://www.linkedin.com/in/laurelehart</a></p>
 
