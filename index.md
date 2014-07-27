@@ -12,8 +12,8 @@ layout: default
 ## Current Projects
 
 <ul class="posts">
-<li><span>MultiR</span> &raquo; <a href="/promptbot">Generating training data for relation extraction.</a></li>
-<li><span>Promptbot</span> &raquo; <a href="/promptbot">An irc bot for writers.</a></li>
+<li><span>MultiR training data pipeline</span></li>
+<li><span><a href="/promptbot">Promptbot</a></span></li>
 </ul>
 
 ## About
