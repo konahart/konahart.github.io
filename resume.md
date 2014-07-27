@@ -127,5 +127,5 @@ layout: default
 
 <h3>Publications</h3>
 
-<p>Hart, Laurel, Hassan Alam and Aman Kumar, <strong><a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">"Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods"</strong></a> <i>Proceedings of COLING 2012</i>. December, 2012: 207—14. <a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">http://aclweb.org/anthology//C/C12/C12-3026.pdf</a></p>
+<p>Hart, Laurel, Hassan Alam and Aman Kumar, <strong><a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">"Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods"</a></strong> <i>Proceedings of COLING 2012</i>. December, 2012: 207—14. <a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">http://aclweb.org/anthology//C/C12/C12-3026.pdf</a></p>
 
