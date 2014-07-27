@@ -12,8 +12,7 @@ layout: default
 ## Current Projects
 
 <ul class="posts">
-<li><span>Hardware</span> &raquo; <a href="/cockroaches">Cockroaches</a></li>
-<li><span>Software</span> &raquo; <a href="http://github.com/greh/coconuts">Math in Python</a></li>
+<li><span>Promptbot</span> &raquo; <a href="/promptbot">An irc bot for writers.</a></li>
 </ul>
 
 ## About
