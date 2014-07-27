@@ -12,7 +12,6 @@ layout: default
 ## Current Projects
 
 <ul class="posts">
-<<<<<<< HEAD
 <li><span>MultiR training data pipeline</span></li>
 <li><span><a href="/promptbot">Promptbot</a></span></li>
 </ul>
