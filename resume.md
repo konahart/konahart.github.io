@@ -10,8 +10,9 @@ layout: default
 
 <h3>Education</h3>
 
-<p><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014 (expected August) <br />
+<p><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014  <br />
 <ul>
+<li>Completed 2-year graduate-level program in 1 year</li>
 <li>Focused on Natural Language Processing and language modeling
 	<ul>
 	<li> Specific topics include: Machine Translation, Information Retrieval, and Question Answering</li>
@@ -28,7 +29,7 @@ layout: default
 
 <h3>Experience</h3>
 
-<p><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  Current (2014) <br />
+<p><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014 <br />
 <ul>
 <li>Designed and implemented training data pipeline for multi-linguistic relation extraction system, MultiR</li>
 <li>Managed large corpora:
@@ -37,10 +38,7 @@ layout: default
 	<li>Freebase: currently over 2 billion facts</li>
 	</ul>
 </li>
-<li>Utilized NLP tools for English, Spanish, and Chinese
-	<ul>
-	<li>Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.</li>
-	</ul>
+<li>Utilized Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.</li>
 </li>
 </ul>
 
@@ -98,18 +96,18 @@ layout: default
 
 <strong>NLTK</strong> <br />
 <ul>
-<li>Created several Context Free Grammars, utilizing features and semantic representations</li>
-<li>Utilized tokenization, parsing, and corpus tools</li>
+<li>Created several Context Free Grammars that incorporated features and semantic representations</li>
+<li>Utilized tokenization, parsing, and Brown, Treebank, and Wordnet corpora tools for Python NLP projects</li>
 </ul>
 
 <strong>Current</strong> <br />
 <ul>
-<li>Multilingual relation extraction system (Java)</li>
-<li><a href="/promptbot">Promptbot</a>: an IRC bot used by 20 users across 2 networks that dispenses writing prompts (Python, ongoing)</li>
+<li><a href="/promptbot">Promptbot</a>: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python, ongoing)</li>
 </ul>
 
 <strong>Recent</strong> <br />
 <ul>
+<li>Multilingual relation extraction system (Java)</li>
 <li>Aquaponics web interface design (Human Computer Interaction)</li>
 <li>Sentiment analysis on Amazon product review corpus (Python)</li>
 </ul>
@@ -122,6 +120,7 @@ layout: default
 <li>Bash</li>
 <li>Git</li>
 <li>Maven</li>
+<li>Stanford CoreNLP</li>
 </ul>
 </p>
 

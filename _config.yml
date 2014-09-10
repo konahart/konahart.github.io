@@ -11,11 +11,11 @@ pygments:    true
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Georgia Reh 
-description: I'm a mathematician. Sometimes I build robots.
-base:        http://greh.github.io/
-author:      Georgia 'greh' Reh 
-email:       georgia.reh@gmail.com 
+title:       Laurel Hart 
+description: Computational linguist
+base:        http://konayashi.github.io/
+author:      Laurel Hart 
+email:       laurel.elise.hart@gmail.com 
 
 exclude:     [drafts, _site, scripts]
 
