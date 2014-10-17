@@ -1,4 +1,1 @@
-Georgia Reh's blog
-====================
-
-georgiareh.com
+Laurel Hart (konayashi)
