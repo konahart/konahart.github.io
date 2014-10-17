@@ -20,7 +20,7 @@ layout: default
 
 <ul class="posts">
 <li><a href="/resume">Resume</a></li>
-<li><a href="http://github.com/konayashi">Github</a></li>
+<li><a href="http://github.com/konahart">Github</a></li>
 <li><a href="http://www.linkedin.com/in/laurelehart">LinkedIn</a></li>
 </li>
 </ul>

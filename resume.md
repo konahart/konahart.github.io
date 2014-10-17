@@ -5,7 +5,7 @@ layout: default
 <h3>Contact Information</h3>
 
 <p><span style="color:#59B34C">laurel.elise.hart</span> &#64; gmail &#46; com</a><br />
-<a href="http://github.com/konayashi">Github</a>: <a href="http://github.com/konayashi">http://github.com/konayashi</a><br />
+<a href="http://github.com/konahart">Github</a>: <a href="http://github.com/konahart">http://github.com/konahart</a><br />
 <a href="https://www.linkedin.com/in/laurelehart">LinkedIn</a>: <a href="https://www.linkedin.com/in/laurelehart">https://www.linkedin.com/in/laurelehart</a></p>
 
 <h3>Education</h3>
