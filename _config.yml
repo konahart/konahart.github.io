@@ -7,15 +7,14 @@ plugins:     ./_plugins
 
 future:      true
 lsi:         false
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Laurel Hart 
+title:       Laurel Hart
 description: Computational linguist
 base:        http://konahart.github.io/
-author:      Laurel Hart 
-email:       laurel.elise.hart@gmail.com 
+author:      Laurel Hart
+email:       laurel.elise.hart@gmail.com
 
 exclude:     [drafts, _site, scripts]
-
