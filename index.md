@@ -24,5 +24,6 @@ layout: default
 <li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
 <li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/laurelehart">laurelehart</a></li>
 <li>IRC (Freenode) &raquo; <a href="https://freenode.net/">Kona</a></li>
+<li>Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#000000"></span>konahart</a></li>
 </li>
 </ul>
