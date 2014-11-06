@@ -1,4 +1,4 @@
-# Website of Laurel Hart, Computational Linguist
+## Website of Laurel Hart, Computational Linguist
 
 Email » laurel.elise.hart @ gmail.com
 
