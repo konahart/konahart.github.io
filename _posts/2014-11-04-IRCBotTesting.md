@@ -19,7 +19,7 @@ use</a>, I decided to look into <a href="http://ngircd.barton.de/">ngIRCd</a>.
 
 Installation is easy enough:
 {% highlight bash %}
-(apt-get install ngircd)
+apt-get install ngircd
 {% endhighlight %}
 (You may need to use 'sudo')
 
