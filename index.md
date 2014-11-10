@@ -13,7 +13,8 @@ layout: default
 ## Current Projects
 
 <ul class="posts">
-<li><span><a href="/promptbot">Promptbot</a></span> &raquo; An irc bot for writers</li>
+<li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
+<li>Studying  &raquo; <a href="https://www.coursera.org/course/algo">Algorithms: Design and Analysis, Part 1</a></li>
 </ul>
 
 ## About
