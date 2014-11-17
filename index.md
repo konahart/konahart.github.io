@@ -22,7 +22,7 @@ layout: default
 
 <ul class="posts">
 <li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>
-<li>Resume &raquo; <a href="resume">Online</a> | <a href="resume/resume.pdf">PDF</a> | <a href="resume/resume.txt">TXT</a></li>
+<li>Resume &raquo; <a href="resume">Interactive</a> | <a href="resume/resume.pdf">PDF</a> | <a href="resume/resume.txt">TXT</a></li>
 <li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
 <li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/laurelehart">laurelehart</a></li>
 <li>IRC (Freenode) &raquo; <a href="https://freenode.net/">Kona</a></li>
