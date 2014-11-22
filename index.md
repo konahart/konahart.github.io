@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Laurel "Kona" Hart, Computational Linguist
 ---
 
-## Blog Posts
+### Blog Posts
 <ul class="posts">
 {% for post in site.posts limit:5 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -11,14 +12,14 @@ layout: default
 <li><a href="/feed.xml">RSS Feed</a></li>
 </ul>
 
-## Current Projects
+### Current Projects
 
 <ul class="posts">
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
 <li>Studying  &raquo; <a href="https://www.coursera.org/course/algo">Algorithms: Design and Analysis, Part 1</a></li>
 </ul>
 
-## About
+### About
 
 <ul class="posts">
 <li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>

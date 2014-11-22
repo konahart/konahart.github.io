@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some fun with JQuery &#58; Lists &amp; Links
+title: Some Fun with JQuery &#58; Lists &amp; Links
 ---
 ###Inspiration
 My afternoon project for last Friday happened to be my first ever endeavor
