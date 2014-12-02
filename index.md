@@ -17,6 +17,7 @@ title: Laurel "Kona" Hart, Computational Linguist
 <ul class="posts">
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
 <li>Studying  &raquo; <a href="https://www.coursera.org/course/algo">Algorithms: Design and Analysis, Part 1</a></li>
+<li>Studying  &raquo; <a href="https://www.coursera.org/course/datascitoolbox">The Data Scientist's Toolbox</a></li>
 </ul>
 
 ### About
