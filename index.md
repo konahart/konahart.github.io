@@ -3,25 +3,36 @@ layout: default
 title: Laurel "Kona" Hart, Computational Linguist
 ---
 
-### Blog Posts
-<ul class="posts">
+<div class="top section">
+<h3>Blog Posts</h3>
+
+<ul>
 {% for post in site.posts limit:5 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 <li><a href="/posts.html">All Posts</a></li>
 <li><a href="/feed.xml">RSS Feed</a></li>
 </ul>
+</div>
 
-### Current Projects
+<div class="section">
+<h3>Current Projects</h3>
 
-<ul class="posts">
+<ul>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
-<li>Studying  &raquo; <a href="https://www.coursera.org/course/datascitoolbox">The Data Scientist's Toolbox</a></li>
+<li>Studying &raquo; 
+    <ul>
+    <li><a href="https://www.coursera.org/course/datascitoolbox">The Data Scientist's Toolbox</a></li> 
+    <li><a href="https://www.coursera.org/course/statinference">Statistical Inference</a></li>
+    <li><a href="https://www.coursera.org/course/rprog">R Programming</a></li>
+    </ul>
+</li>
 </ul>
+</div>
 
-### About
-
-<ul class="posts">
+<div class="section">
+<h3>About</h3>
+<ul>
 <li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>
 <li>Resume &raquo; <a href="resume">Interactive</a> | <a href="resume/resume.pdf">PDF</a> | <a href="resume/resume.txt">TXT</a></li>
 <li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
@@ -30,3 +41,4 @@ title: Laurel "Kona" Hart, Computational Linguist
 <li>Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#000000">@</span>konahart</a></li>
 </li>
 </ul>
+</div>
