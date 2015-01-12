@@ -17,4 +17,4 @@ base:        http://konahart.github.io/
 author:      Laurel Hart
 email:       laurel.elise.hart@gmail.com
 
-exclude:     [drafts, _site, scripts]
+exclude:     [_drafts, _site, scripts]

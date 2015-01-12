@@ -20,11 +20,11 @@ title: Laurel "Kona" Hart, Computational Linguist
 
 <ul>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
-<li>Studying &raquo; 
+<li>Playing with: 
     <ul>
-    <li><a href="https://www.coursera.org/course/datascitoolbox">The Data Scientist's Toolbox</a></li> 
-    <li><a href="https://www.coursera.org/course/statinference">Statistical Inference</a></li>
-    <li><a href="https://www.coursera.org/course/rprog">R Programming</a></li>
+    <li>Elasticsearch</li> 
+    <li>Webscraping</li> 
+    <li>D3.js</li>
     </ul>
 </li>
 </ul>
