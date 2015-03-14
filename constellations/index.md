@@ -4,19 +4,22 @@ title: User Interface Design for Creative Writing Software
 ---
 
 ## Inspiration
+
+### The State of Creative Writing Software
+
 For whatever reason, I can never stop thinking about creative writing software
 (you might be familiar with my 
 [promptbot project](http://konahart.com/promptbot/)). 
-Maybe it's a form of procrastination--forever fidgetting with the software, 
-never actually doing the writing. I have tried a number of different programs, 
-from [WriteItNow](http://www.ravensheadservices.com/index.php) back in the day,
-to [Scrivener](http://www.literatureandlatte.com/scrivener.php), 
+Maybe it's a form of procrastination---I'm forever fidgetting with the 
+software, never actually doing the writing. I have tried a number of different
+programs, from [WriteItNow](http://www.ravensheadservices.com/index.php) back 
+in the day, to [Scrivener](http://www.literatureandlatte.com/scrivener.php), 
 to [Writer's Cafe](http://www.writerscafe.co.uk/), 
 to [yWriter](http://www.spacejock.com/yWriter5.html), to just about every 
 [alternative to Scrivener](http://alternativeto.net/software/scrivener/). 
 While many of them are serviceable, most are little more than pared-down word
 processors, glorified corkboards, or flow chart makers, and very rarely more 
-than one or two of those. Worst of all--to me--all I've seen have the 
+than one or two of those. Worst of all---to me---all I've seen have the 
 clunkiest, ripped-out-of-the-90s user interfaces. Few take advantage of more
 recent forms of knowledge organization, such as tagging, nor new forms of
 interaction such as touch. None look like they were natively written for 
@@ -25,27 +28,47 @@ were.
 
 Which is not, in any way, to imply they are totally useless. Certainly word 
 processors, corkboards, and flow charts are useful in creative writing.
-However, I have found them wanting. Right now I prefer Scrivener because I 
-find it the most richly-featured, but still feel constricted by its limited
-ways of interacting with my writing and its antiquated-looking interface.
+However, I have found them limiting and wanting. Of the programs I have tried,
+I prefer Scrivener because I find it the most richly-featured, but still feel 
+constricted by its limited ways of interacting with my writing and its 
+antiquated-looking interface.
 
-So, when my Human-Computer Interaction seminar discussed 
-[Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp), my
+### Borrowing from Coders 
+
+It was during my last term as a student, that my Human-Computer Interaction 
+seminar discussed 
+[Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp). My
 thoughts immediately turned to how I could apply those design decisions to 
 creative writing software. At first I decided that there was not much that
-would translate usefully; however, the idea kept churning in my brain, 
+would translate usefully; however, the idea kept churning in my brain. 
 
-On the surface, writing creatively writing has different needs from writing
-software. 
+On the surface, the needs of writing creatively are very different from those
+of writing software. Where an IDE might reasonably include things like tab-
+completion and templating, these features are of very limited use to creative
+writing. However, both acts center around both creating content and organizing
+it. A large codebase can quickly get out of hand if there is no way to usefully
+understand its structure; likewise, an author can get lost in all the details
+of a story they are trying to create. When does a particular item or character
+first appear in the story? Is its appearance described consistently? 
+
+The ``novel user interface metaphor'' developed by Code Bubbles can be usefully
+extended to the realm of creative writing.
  
-Also essential to good design is an easily-accessible mental model of how
-elements are organized. I think that is part of why so many pieces of 
-creative writing software have the same layout: hierarchical file system on one
-side--familiar from basic computing; word processor in the middle--also a 
-familiar element of basic computing; meta notes on the side, usually 
-that look like Post-it notes or index cards--a simple analogy to how one might 
-add additional comments to documents in the real world--add additional pieces 
-of paper that are tangentially attached. The most novel element is the
+Essential to good design is an intuitive metaphor---or model---of how
+elements are organized and can be manipulated. Returning to existing creative
+writing software, many have the same component elements: 
+
+* hierarchical file system on one side
+* word processor in the middle
+* meta-notes on the side
+* short notes that are rearrangable within a grid 
+
+The first two are probably familiar to the user by dint of being related to 
+basic computational tasks. There is no particular metaphor in place that
+relates these elements with the others; nor, necessarily, does there need to 
+be.
+
+The most novel element is the
 occasional inclusion of small notes that are rearrangable in a grid--these are
 always akin to index cards, which, like the meta notes, are a simple analogy 
 to the physical world. But within that analogy, there is actually a loss of 
@@ -69,11 +92,13 @@ By allowing grouping without changing the location of the stars, multiple
 
 That is the central metaphor of the software I propose: 
 Terminology:
+
 * Stars - notes/nodes/vertices
 * Constellations - arrangements/relationships/edges
 * 
 
 Working titles include 
+
 * Constellations
 * Celestial
 * Sky Writer
