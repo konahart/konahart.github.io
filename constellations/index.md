@@ -33,7 +33,9 @@ I prefer Scrivener because I find it the most richly-featured, but still feel
 constricted by its limited ways of interacting with my writing and its 
 antiquated-looking interface.
 
-### Borrowing from Coders 
+## Design
+
+### Borrowing from Coders --- Code Bubbles 
 
 It was during my last term as a student, that my Human-Computer Interaction 
 seminar discussed 
@@ -51,8 +53,8 @@ understand its structure; likewise, an author can get lost in all the details
 of a story they are trying to create. When does a particular item or character
 first appear in the story? Is its appearance described consistently? 
 
-The ``novel user interface metaphor'' developed by Code Bubbles can be usefully
-extended to the realm of creative writing.
+The "novel user interface metaphor" developed by Code Bubbles can be usefully
+extended to the realm of creative writing. *More on this later.* 
  
 Take-aways / novel features of Code Bubbles:
 
@@ -66,9 +68,9 @@ Take-aways / novel features of Code Bubbles:
 
 Essential to good design is an intuitive metaphor---or model---of how
 elements are organized and can be manipulated. Code Bubbles introduced 
-``bubbles,'' but even this is not so much a comprehensive metaphor that fully
+"bubbles," but even this is not so much a comprehensive metaphor that fully
 explans the bubbles' fuctionality, but mostly serves to emphasize that bubbles
-fuction differenty from more-familiar ``windows.'' 
+fuction differenty from more-familiar "windows." 
 
 Returning to existing creative writing software, many have the same component 
 elements: 
@@ -83,38 +85,127 @@ basic computational tasks. There is no particular metaphor in place that
 relates these elements with the others; nor, necessarily, does there need to 
 be.
 
-The most novel element is the
-occasional inclusion of small notes that are rearrangable in a grid--these are
-always akin to index cards, which, like the meta notes, are a simple analogy 
-to the physical world. But within that analogy, there is actually a loss of 
-usefulness: index cards in the real world can be arranged in more than just a 
-grid. This model also consistently fails to make use of the advantages of using
-a computer program instead of actual notecards. 
+The most novel element is the occasional inclusion of small notes that are 
+rearrangable in a grid. These are always akin to index cards, a simple analogy
+to the physical world: to add meta-notes to a document in the real world, one
+might reasonably attach a Post-It note or an index card; the same metaphor is
+reused for the digital world. But within that analogy, there is actually a 
+loss of usefulness: index cards in the real world can be arranged in more
+than just a grid. They can be manipulated in more meaningful ways. They can
+be color-coded with multiple colors. They might also take the form of images,
+whether a quick sketch, a photograph, or other useful bit of visual
+information. In the real world, an author will use whatever material best suits
+the information to be conveyed. The only limitations are related to being 
+physical: portability, duplication, and so on. Unfortunately, this model 
+consistently fails to solve some of those very problems. They fail to make use
+of the advantages of using a computer program instead of actual notecards. 
 
-The model of these programs is minimally commital, with only one or two
-components being related to the real world, while the rest are unrelated to one
-another. The model gives no clear idea of the functionality of its components. 
+Furthermore, the model these programs adopt is minimally commital, with only
+one or two components being related to the real world, while the rest are 
+unrelated to one another. The model gives no clear idea of the functionality
+of its components. 
 
 Instead, I propose a program with a model based around the night sky. 
 
 Just looking at the night sky, you might see a mess of little lights: 
 stars, planets, various celestial bodies. These lights (we'll say stars for 
-simplicity) have no immediately apparent organizational structure. How are you
-to 
+simplicity) have no immediately apparent organizational structure. How can one
+ever learn to consistently identify specific stars, transform the mess of 
+lights into useful information? 
 
-By allowing grouping without changing the location of the stars, multiple 
+The solution to this problem is ancient, yet still applicable to modern life:
+constellations.
 
+By connecting and making pictures out of patterns of lights, humans have been
+able to chart the night sky in ways that are memorable and meaningful to even
+those with only passing interest in the celestial bodies. Furthermore, stars
+can be part of multiple, overlapping constellations---being a member of one 
+grouping does not prevent it from being part of another.
 
-That is the central metaphor of the software I propose: 
+How does this map to creative writing?
+
+Imagine a story that involves multiple narrator characters. One way to look at
+the story is how it will appear in the story's final, written form: a series of
+events, perhaps presented non-chronologically, from a variety of narrators. 
+But perhaps, as the author creates the story, they want to look at the story
+as it happens chronologically. Or perhaps they want to examine each character's
+part as separate from the others'. Or perhaps the writer wants to group scenes
+by their locations. All of these are perfectly valid ways to organize the same
+set of documents, yet in most creative writing software, attempting to create
+a new organization either destroys what existed previously or creates a lot of
+needless duplication.
+
+Therefore, I propose software that, like Code Bubbles, allows for snippets of
+writing to be intuitively grouped, but unlike Code Bubbles, allows for 
+multiple, overlapping organization schemes. The night sky model provides an
+intuitive interface metaphor that will encourage ease of understanding and use.
+
 Terminology:
 
 * Stars - notes/nodes/vertices
-* Constellations - arrangements/relationships/edges
-* 
+* Clusters - multiple stars collapsed into a smaller representation
+* Constellations - arrangements/relationships/networks
 
-Working titles include 
+## Components
 
-* Constellations
+### Stars
+
+Stars function much like you would expect notes to, but can actually have a 
+range of uses. A Star might consist of:
+
+* a snippet of writing
+* a character profile
+* a scene
+* notes about a scene
+* a setting
+* an image
+* a quote
+* an event
+* a link
+* a piece of audio or video
+
+### Constellations
+
+Constellations operate much like Code Bubbles' bubbles, but multiple can be
+defined from the same set of Stars. Grouping will be available both in terms of
+an outline that encompasses the component Stars, as in the graphical 
+representation of a constellation in real like, and in network-like edges 
+between Stars (nodes). This can be used to create series of events, as in a
+chronological or diegetic order, while having simultaneously associated but 
+"orderless" elements.
+
+Constellations will be given names and colors, to allow them to be easily
+distinguished from one another in a selection menu.
+
+### Clusters
+
+For simplicity, it is advisable that groups of Stars be collapsible. For
+example, a group of Stars might consist of notes related to a character---
+perhaps one Star is a profile, others are images of the character, and so on. 
+Perhaps the author wants to include all the character notes in a Constellation
+that contains notes on all the characters. Including all the notes on this 
+character at the "top level" in this Constellation would make it 
+difficult to understand the relationship between all the Stars---notes on this
+character are not directly related to notes on another character. Instead,
+these Stars should be embeddable into a Cluster that represents the character.
+Then is is possible to have a Constellation of all the characters, from which
+each Cluster can be expanded into its component Stars.
+
+### Other features
+
+* small 'sky map' of all inhabited parts of the virtual field
+* search across all snippets
+* name/character generator
+* document statistics (word counts, etc)
+* selection of sky/star themed backgrounds will help give the software a modern
+look
+* bare-bones editor mode for focused, long-form writing
+
+## Miscellanea
+
+Working titles for this software design include:
+
+* Constellate / Constellations
 * Celestial
 * Sky Writer
 * Written in the Stars
