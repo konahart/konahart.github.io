@@ -54,9 +54,24 @@ first appear in the story? Is its appearance described consistently?
 The ``novel user interface metaphor'' developed by Code Bubbles can be usefully
 extended to the realm of creative writing.
  
+Take-aways / novel features of Code Bubbles:
+
+* Manipulate snippets
+* Concurrently-visible working sets
+* Groups with minimal border decoration, no overlap
+* Large, pannable 2-D virtual space in which to cluster groups
+* Small representation (map) of larger virtual space for easy navigation
+
+### Interface Metaphor
+
 Essential to good design is an intuitive metaphor---or model---of how
-elements are organized and can be manipulated. Returning to existing creative
-writing software, many have the same component elements: 
+elements are organized and can be manipulated. Code Bubbles introduced 
+``bubbles,'' but even this is not so much a comprehensive metaphor that fully
+explans the bubbles' fuctionality, but mostly serves to emphasize that bubbles
+fuction differenty from more-familiar ``windows.'' 
+
+Returning to existing creative writing software, many have the same component 
+elements: 
 
 * hierarchical file system on one side
 * word processor in the middle
