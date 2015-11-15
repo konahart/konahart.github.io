@@ -7,7 +7,7 @@ title: Laurel "Kona" Hart, Computational Linguist
 <h3>Blog Posts</h3>
 
 <ul>
-{% for post in site.posts limit:5 %}
+{% for post in site.categories.posts limit:5 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 <li><a href="/posts.html">All Posts</a></li>

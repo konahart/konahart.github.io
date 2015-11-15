@@ -76,7 +76,7 @@ Adapted from ['In Vegetables We Trust'](http://invegetableswetrust.com/2013/10/2
 </ul>
 
 ## Instructions
-1. Preheat oven to 180C/350F and line cookie sheet with parchment paper.
+1. Preheat oven to 180&deg;C/350&deg;F and line cookie sheet with parchment paper.
 2. Combine unrefined golden sugar and dark brown sugar. Add in your desired 
 amount of sriracha, and any oil substitutions. Incrementally add in oil, 
 creaming together with sugars while making sure there is not too much oil; you

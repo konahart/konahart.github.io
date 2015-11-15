@@ -18,3 +18,7 @@ author:      Laurel Hart
 email:       laurel.elise.hart@gmail.com
 
 exclude:     [_drafts, _site, scripts]
+collections:
+ recipes:
+  output: true
+  permalink: /recipes/:path/
