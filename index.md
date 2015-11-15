@@ -16,16 +16,10 @@ title: Laurel "Kona" Hart, Computational Linguist
 </div>
 
 <div class="section">
-<h3>Current Projects</h3>
+<h3>Projects</h3>
 
 <ul>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
-<li>Playing with: 
-    <ul>
-    <li>Elasticsearch</li> 
-    <li>Webscraping</li> 
-    <li>D3.js</li>
-    </ul>
 </li>
 </ul>
 </div>
