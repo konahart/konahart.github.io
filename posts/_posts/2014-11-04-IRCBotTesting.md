@@ -13,7 +13,7 @@ This article assumes a Linux-like operating system for specific instructions on
 how to run certain commands, but it should be possible to use Mac OS X. As 
 such, some commands may vary.
 
-###ngIRCd
+### ngIRCd
 Prompted by a <a href="http://blog.tremily.us/posts/Local_IRC_server/">Physics
 student teacher's post about setting up a local IRC server for his students to
 use</a>, I decided to look into <a href="http://ngircd.barton.de/">ngIRCd</a>.
@@ -55,7 +55,7 @@ of the stop command above.
 Now that the local IRC server is set up, you can use it to test your irc bot
 by connecting it to localhost.
 
-###A Little Bit of Troubleshooting
+### A Little Bit of Troubleshooting
 If you notice that your bot doesn't seem to be connecting and are extending
 Twisted's irc.IRCClient, consider adding
 

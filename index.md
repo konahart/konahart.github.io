@@ -21,7 +21,6 @@ title: Laurel "Kona" Hart, Computational Linguist
 <ul>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
 <li><a href="/constellations">Constellations</a> &raquo; Creative writing software UI concept</li>
-</li>
 </ul>
 </div>
 

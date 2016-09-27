@@ -8,6 +8,4 @@ Github » [konahart](http://github.com/konahart)
 
 LinkedIn » [laurelehart](http://www.linkedin.com/in/laurelehart)
 
-IRC (Freenode) » [Kona](https://freenode.net/)
-
 Twitter » @[konahart](https://twitter.com/konahart)

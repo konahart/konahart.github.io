@@ -2,7 +2,7 @@
 layout: post
 title: Some Fun with JQuery &#58; Lists &amp; Links
 ---
-###Inspiration
+### Inspiration
 My afternoon project for last Friday happened to be my first ever endeavor
 into JQuery, and among my first uses of Javascript. Since seeing the elegant
 use of collapsing/expanding lists for the 
@@ -26,7 +26,7 @@ required. My goal with my online resume, then, was to highlight certain things
 while allowing for further exploration and delving into everything I have to 
 offer.
 
-###Selectively Collapsing Lists
+### Selectively Collapsing Lists
 Creating collapsing/expanding lists was mostly a matter of following 
 <a href="http://jasalguero.com/ledld/development/web/expandable-list/">
 jasalguero's tutorial</a>, which works quite admirably. However, the page 
@@ -45,7 +45,7 @@ is toggled. Full code for this can be found in
 <a href="https://github.com/konahart/resume/blob/gh-pages/js/collapseList.js">
 my resume repo</a>. 
 
-###Differing Behavior for Anchor (fragment) and Outgoing Links
+### Differing Behavior for Anchor (fragment) and Outgoing Links
 Because of the way click events are handled by the above tutorial, they must be
 explicitly re-enabled in the script (which, to jasalguero's credit, is 
 explained in the tutorial). However, solution provided would cause anchor links
