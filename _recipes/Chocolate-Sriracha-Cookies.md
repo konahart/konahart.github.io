@@ -6,7 +6,7 @@ title: Chocolate Sriracha Cookies
 Adapted from ['In Vegetables We Trust'](http://invegetableswetrust.com/2013/10/20/chocolate-sriracha-cookies/)
 
 
-##Ingredients
+## Ingredients
 <ul>
     <li> 1/2 cup soft dark brown sugar</li>
     <li> 1/2 cup unrefined golden granulated sugar <a href="#UnrefinedSugar">(notes)</a></li>
@@ -47,12 +47,12 @@ Adapted from ['In Vegetables We Trust'](http://invegetableswetrust.com/2013/10/2
     
     <li><a name="CornFlour">Corn starch and corn flour</a>: the original recipe
     uses the term 'corn flour,' which is not a widely-used term in the US. I
-    interpreted this as 
-    meaning 'corn meal' the first time I made it, but it actually means 'corn
-    starch.' I found that the corn meal added a nice grittiness that went will
-    with the unrefined sugar; now I add both when I make the cookies All this
-    is to say that the corn starch is not strictly necessary, but the dough
-    will be more crumbly (possibly requiring more milk) without it.</li>
+    interpreted this as meaning 'corn meal' the first time I made it, but it 
+    actually means 'corn starch.' I found that the corn meal added a nice 
+    grittiness that went will with the unrefined sugar; now I add both when I 
+    make the cookies. All this is to say that the corn starch is not strictly 
+    necessary, but the dough will be more crumbly (possibly requiring more 
+    milk) without it.</li>
 </ul>
 
 ## Adaptations
