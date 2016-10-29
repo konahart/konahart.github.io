@@ -5,7 +5,6 @@ title: Laurel "Kona" Hart, Computational Linguist
 
 <div class="top section">
 <h3>Blog Posts</h3>
-
 <ul>
 {% for post in site.categories.posts limit:5 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -17,10 +16,15 @@ title: Laurel "Kona" Hart, Computational Linguist
 
 <div class="section">
 <h3>Projects</h3>
-
 <ul>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
-<li><a href="/constellations">Constellations</a> &raquo; Creative writing software UI concept</li>
+<li><a href="/recipes">Recipes</a> &raquo; Adventures in baked goods
+<ul>
+{% for recipe in site.recipes limit: 3%}
+<li><span><a href="{{ post.url }}">{{ recipe.title }}</a></span></li>
+{% endfor %}
+</ul>
+</li>
 </ul>
 </div>
 
