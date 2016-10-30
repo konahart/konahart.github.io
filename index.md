@@ -21,7 +21,7 @@ title: Laurel "Kona" Hart, Computational Linguist
 <li><a href="/recipes">Recipes</a> &raquo; Adventures in baked goods
 <ul>
 {% for recipe in site.recipes limit: 3%}
-<li><span><a href="{{ post.url }}">{{ recipe.title }}</a></span></li>
+<li><span><a href="{{ recipe.url }}">{{ recipe.title }}</a></span></li>
 {% endfor %}
 </ul>
 </li>
