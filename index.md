@@ -17,6 +17,7 @@ title: Laurel "Kona" Hart, Computational Linguist
 <div class="section">
 <h3>Projects</h3>
 <ul>
+<li><a href="/Stranger-Things-SparkCore">Stranger Things SparkCore</a> &raquo; Web-controlled Stranger Things lights</li>
 <li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
 <li><a href="/recipes">Recipes</a> &raquo; Adventures in baked goods
 <ul>
