@@ -15,9 +15,9 @@ title: Laurel "Kona" Hart, Computational Linguist
 <div class="section" id="More">
   <h2>Etcetera</h2>
   <ul>
-    <li><h3><a href="/posts.html">Design</a></h3> &raquo; Sometimes I make logos</li>
+    <li><h3><a href="/design.html">Design</a></h3> &raquo; Sometimes I make logos</li>
     <li><h3><a href="/posts.html">Posts</a></h3> &raquo; Thoughts with dates</li>
-    <li><h3><a href="/posts.html">Recipes</a></h3> &raquo; Adventures in baked goods</li>
+    <li><h3><a href="/recipes.html">Recipes</a></h3> &raquo; Adventures in baked goods</li>
   </ul>
 </div>
 <hr>
