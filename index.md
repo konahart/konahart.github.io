@@ -2,40 +2,33 @@
 layout: default
 title: Laurel "Kona" Hart, Computational Linguist
 ---
-
-<div class="top section">
-<h3>Blog Posts</h3>
-<ul>
-{% for post in site.categories.posts limit:5 %}
-<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-<li><a href="/posts.html">All Posts</a></li>
-<li><a href="/feed.xml">RSS Feed</a></li>
-</ul>
+<div class="contents">
+<div class="top section" id="Projects">
+  <h2>Projects</h2>
+  <ul>
+    <li><h3><a href="http://electric-seance.com">Electric Seance</a></h3> &raquo; A conversation-based ghost story &mdash; Maker Faire 2017</li>
+    <li><h3><a href="/Stranger-Things-SparkCore">Stranger Things SparkCore</a></h3> &raquo; Web-controlled Stranger Things lights</li>
+    <li><h3><a href="/promptbot">Promptbot</a></h3> &raquo; An irc bot for writers</li>
+  </ul>
 </div>
-
-<div class="section">
-<h3>Projects</h3>
-<ul>
-<li><a href="/Stranger-Things-SparkCore">Stranger Things SparkCore</a> &raquo; Web-controlled Stranger Things lights</li>
-<li><a href="/promptbot">Promptbot</a> &raquo; An irc bot for writers</li>
-<li><a href="/recipes">Recipes</a> &raquo; Adventures in baked goods
-<ul>
-{% for recipe in site.recipes limit: 3%}
-<li><span><a href="{{ recipe.url }}">{{ recipe.title }}</a></span></li>
-{% endfor %}
-</ul>
-</li>
-</ul>
+<hr>
+<div class="section" id="More">
+  <h2>Etcetera</h2>
+  <ul>
+    <li><h3><a href="/posts.html">Design</a></h3> &raquo; Sometimes I make logos</li>
+    <li><h3><a href="/posts.html">Posts</a></h3> &raquo; Thoughts with dates</li>
+    <li><h3><a href="/posts.html">Recipes</a></h3> &raquo; Adventures in baked goods</li>
+  </ul>
 </div>
-
-<div class="section">
-<h3>About</h3>
-<ul>
-<li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>
-<li>Resume &raquo; <a href="resume">Interactive</a> | <a href="resume/resume.pdf">PDF</a> | <a href="resume/resume.txt">TXT</a></li>
-<li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
-<li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/laurelehart">laurelehart</a></li>
-<li>Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#000000">@</span>konahart</a></li>
-</ul>
+<hr>
+<div class="section" id="Contact">
+  <h2>Contact</h2>
+  <ul>
+    <li><h3>Email</h3> &raquo; <span style="color:#59B34C; font-weight: bold;">laurel.elise.hart</span>&#64;gmail&#46;com</li>
+    <li><h3>Resume</h3> &raquo; <a href="resume" style="color:#59B34C; font-weight: bold;">Interactive</a> | <a href="resume/resume.pdf" style="color:#59B34C; font-weight: bold;">PDF</a> | <a href="resume/resume.txt" style="color:#59B34C; font-weight: bold;">TXT</a></li>
+    <li><h3>Github</h3> &raquo; <a href="http://github.com/konahart" style="color:#59B34C; font-weight: bold;">konahart</a></li>
+    <li><h3>LinkedIn</h3> &raquo; <a href="http://www.linkedin.com/in/laurelehart" style="color:#59B34C; font-weight: bold;">laurelehart</a></li>
+    <li><h3>Twitter</h3> &raquo; <a href="https://twitter.com/konahart" style="color:#59B34C; font-weight: bold;"><span style="color:#000000; font-weight: normal;">@</span>konahart</a></li>
+  </ul>
+</div>
 </div>

@@ -3,6 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 
+
 body {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
@@ -25,15 +26,15 @@ h1 > a {
 }
 
 h2 {
-    margin: 15px;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 2em;
-    font-weight: 400;
-    color:#BBBBBB;
 }
 
 h3 {
-    font-family: 'Ubuntu', sans-serif;
+    margin: 15px;
     font-size: 1.5em;
+    font-weight: 400;
+    color: #59B34C;
 }
 
 a {
@@ -62,24 +63,58 @@ hr {
     margin-top: 33.6px;
 }
 
-.section > h3 {
-    width: 50%;
-    margin-left: 20px;
-    float: left;
-    border-top: 1px solid rgba(0,0,0,0.1);
-    margin-top: 5px;
-    padding-top: 15px;
-    
+.header > h2 {
+    margin: 15px;
+    font-size: 1.5em;
+    font-weight: 400;
+    color:#BBBBBB;
 }
 
-.top > h3 {
+.section {
+    display: flex;
+}
+
+.contents hr {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0px 20px 0px 20px;
+}
+
+.section > h2 {
+    width: 40%;
+    margin-left: 20px;
+    float: left;
+    margin-top: 5px;
+    padding-top: 15px; 
+}
+
+.top > h2 {
     border-top: 0px;
 }
 
+.section h3 {
+    font-size: 1.25em;
+    display: inline;
+    font-weight: 700;
+    margin: 0px 5px 0px 0px;
+    color: #777777;
+}
+
+#Projects h3 {
+  display: block;
+}
+
+#Projects > ul > li:nth-last-child(n+2)  { /* all but last child */
+  margin-bottom: 8px;
+}
+
 .section > ul {
+    width: 60%;
     float: left;
-    width: 290px;
     overflow-wrap: break-word;
+}
+
+.section > ul > li {
+    margin: 2px;
 }
 
 li > ul {
