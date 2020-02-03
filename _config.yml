@@ -10,11 +10,11 @@ highlighter: rouge
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Laurel Hart
+title:       Laurel Kona Goodhart
 description: Computational linguist - Software engineer
 base:        http://konahart.github.io/
-author:      Laurel Hart
-email:       laurel.elise.hart@gmail.com
+author:      Laurel Kona Goodhart
+email:       code@konahart.com
 
 exclude:     [_drafts, _site, scripts]
 collections:

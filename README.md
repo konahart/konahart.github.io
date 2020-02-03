@@ -1,11 +1,11 @@
-## Website of Laurel Hart, Computational Linguist
+## Website of Laurel Kona Goodhart, Computational Linguist
 
-Email » laurel.elise.hart @ gmail.com
+Email » hi @ konahart.com
 
 Resume » [Online](http://konahart.com/resume) | [PDF](http://konahart.com/resume/resume.pdf) | [TXT](http://konahart.com/resume/resume.txt)
 
 Github » [konahart](http://github.com/konahart)
 
-LinkedIn » [laurelehart](http://www.linkedin.com/in/laurelehart)
+LinkedIn » [konahart](http://www.linkedin.com/in/konahart)
 
 Twitter » @[konahart](https://twitter.com/konahart)
