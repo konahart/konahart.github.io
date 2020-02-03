@@ -10,7 +10,7 @@ highlighter: rouge
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Laurel Kona Goodhart
+title:       Kona Goodhart
 description: Computational linguist - Software engineer
 base:        http://konahart.github.io/
 author:      Laurel Kona Goodhart

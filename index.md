@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Laurel Kona Goodhart, Computational Linguist
+title: Kona Goodhart, Computational linguist &mdash; Software engineer
 ---
 <div class="contents">
 <div class="top section" id="Projects">
