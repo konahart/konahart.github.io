@@ -2,11 +2,11 @@
 layout: default
 title: Kona Goodhart, Computational linguist &mdash; Software engineer
 ---
+
 <div class="contents">
 <div class="top section" id="Projects">
   <h2>Projects</h2>
   <ul>
-    <li><h3><a href="http://electric-seance.com">Electric Seance</a></h3> &raquo; A conversation-based ghost story &mdash; Maker Faire 2017</li>
     <li><h3><a href="/Stranger-Things-SparkCore">Stranger Things SparkCore</a></h3> &raquo; Web-controlled Stranger Things lights</li>
     <li><h3><a href="/promptbot">Promptbot</a></h3> &raquo; An irc bot for writers</li>
   </ul>
@@ -16,7 +16,6 @@ title: Kona Goodhart, Computational linguist &mdash; Software engineer
   <h2>Etcetera</h2>
   <ul>
     <li><h3><a href="/design.html">Design</a></h3> &raquo; Sometimes I make logos</li>
-    <li><h3><a href="/posts.html">Posts</a></h3> &raquo; Thoughts with dates</li>
     <li><h3><a href="/recipes.html">Recipes</a></h3> &raquo; Adventures in baked goods</li>
   </ul>
 </div>
