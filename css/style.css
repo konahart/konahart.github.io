@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 
 :root {
-  --accent-color: #59B34C;
+  --accent-color: #59b34c;
 }
 
 .accent {
@@ -13,75 +13,77 @@
 }
 
 body {
-    text-align: center;
-    font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
-    margin-bottom: -20px;
-    text-align: center;
-    color: var(--accent-color);
-    font-family: 'Great Vibes', cursive;
-    font-size: 5em;
+  margin-bottom: -20px;
+  text-align: center;
+  color: var(--accent-color);
+  font-family: 'Great Vibes', cursive;
+  font-size: 5em;
 }
 
 h1:first-child + p {
-    text-align: center;
+  text-align: center;
 }
 
 h1 > a {
-    color: inherit;
+  color: inherit;
 }
 
 h2 {
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 2em;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
 }
 
 h3 {
-    margin: 15px;
-    font-size: 1.5em;
-    font-weight: 400;
-    color: var(--accent-color);
+  margin: 15px;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: var(--accent-color);
 }
 
 a {
-    color: var(--accent-color);
+  color: var(--accent-color);
 }
 
-a, a:visited, a:hover {
-    text-decoration: none;
+a,
+a:visited,
+a:hover {
+  text-decoration: none;
 }
 
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.2);
-    clear: both;
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  clear: both;
 }
 
 .container {
-    max-width: 700px;
-    margin: 0 auto;
-    text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .header {
-    text-align: center;
-    margin-top: 33.6px;
+  text-align: center;
+  margin-top: 33.6px;
 }
 
 .header > h2 {
-    margin: 15px;
-    font-size: 1.5em;
-    font-weight: 400;
-    color:#BBBBBB;
+  margin: 15px;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #bbbbbb;
 }
 
 @media only screen and (min-width: 700px) {
-    .section {
-        display: flex;
-    }
+  .section {
+    display: flex;
+  }
 }
 
 .contents hr {
@@ -90,63 +92,64 @@ hr {
 }
 
 .section > h2 {
-    width: 40%;
-    margin-left: 20px;
-    float: left;
-    margin-top: 5px;
-    padding-top: 15px; 
+  width: 40%;
+  margin-left: 20px;
+  float: left;
+  margin-top: 5px;
+  padding-top: 15px;
 }
 
 .top > h2 {
-    border-top: 0px;
+  border-top: 0px;
 }
 
 .section h3 {
-    font-size: 1.25em;
-    display: inline;
-    font-weight: 700;
-    margin: 0px 5px 0px 0px;
-    color: #777777;
+  font-size: 1.25em;
+  display: inline;
+  font-weight: 700;
+  margin: 0px 5px 0px 0px;
+  color: #777777;
 }
 
 #Projects h3 {
   display: block;
 }
 
-#Projects > ul > li:nth-last-child(n+2)  { /* all but last child */
+#Projects > ul > li:nth-last-child(n + 2) {
+  /* all but last child */
   margin-bottom: 8px;
 }
 
 .section > ul {
-    width: 60%;
-    float: left;
-    overflow-wrap: break-word;
+  width: 60%;
+  float: left;
+  overflow-wrap: break-word;
 }
 
 .section > ul > li {
-    margin: 2px;
+  margin: 2px;
 }
 
 li > ul {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 p {
-    font-size: 1em;
-    line-height: 1.25em;
-    margin: 1.25em 0;
-    text-align: left;
-    padding-left: 10px;
-    padding-right: 10px;
+  font-size: 1em;
+  line-height: 1.25em;
+  margin: 1.25em 0;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .footer {
-    padding: 5px 0;
-    color:#BBBBBB;
+  padding: 5px 0;
+  color: #bbbbbb;
 }
 
 .footer p {
-    clear: both;
-    margin: 3px;
-    text-align: center;
+  clear: both;
+  margin: 3px;
+  text-align: center;
 }
