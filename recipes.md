@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /recipes/
 ---
 
 ## Recipes
