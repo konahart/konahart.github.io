@@ -10,6 +10,7 @@ title: Kona Goodhart, Software engineer &mdash; Computational linguist
     {% for project in site.data.projects limit:3 %}
     <li><h3><a href="{{ project.url }}" class="accent">{{ project.name }}</a></h3> &raquo; {{ project.description }}</li>
     {% endfor %}
+    <li><a href="/projects.html">More...</a></li>
   </ul>
 </div>
 <hr>
