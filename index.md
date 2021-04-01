@@ -16,6 +16,7 @@ title: Kona Goodhart, Software engineer &mdash; Computational linguist
 <div class="section" id="More">
   <h2>Etcetera</h2>
   <ul>
+    <li><h3><a href="https://darlingbat.com">Games</a></h3> &raquo; Role-playing tabletop games</li>
     <li><h3><a href="/design.html">Design</a></h3> &raquo; Sometimes I make logos</li>
     <li><h3><a href="/recipes.html">Recipes</a></h3> &raquo; Adventures in baked goods</li>
   </ul>
