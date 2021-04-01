@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kona Goodhart, Computational linguist &mdash; Software engineer
+title: Kona Goodhart, Software engineer &mdash; Computational linguist
 ---
 
 <div class="contents">

@@ -10,11 +10,7 @@ highlighter: rouge
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Kona Goodhart
-description: Computational linguist - Software engineer
-base:        https://konahart.com
-author:      Laurel Kona Goodhart
-email:       code@konahart.com
+description: Software engineer - Computational linguist
 
 exclude:     [_drafts, _site, scripts]
 collections:
