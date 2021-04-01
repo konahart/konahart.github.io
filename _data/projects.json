@@ -2,7 +2,17 @@
   {
     "name": "Electric Seance",
     "url": "https://makerfaire.com/maker/entry/59965/",
-    "description": "A conversation-based ghost story &mdash; Maker Faire 2017"
+    "description": "A conversation-based ghost story &mdash; Maker Faire 2017",
+    "tags": [
+      "hardware",
+      "lights",
+      "maker",
+      "microcontroller",
+      "SparkCore",
+      "mystery",
+      "interactive narrative",
+      "Maker Faire"
+    ]
   },
   {
     "name": "Stranger Things SparkCore",
