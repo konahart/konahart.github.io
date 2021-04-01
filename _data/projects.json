@@ -1,5 +1,11 @@
 [
   {
+    "name": "generativiTea",
+    "url": "https://twitter.com/generativiTea",
+    "description": "Art bot that teas about small batch, RNN-tisanal teas",
+    "tags": ["RNN", "deep learning", "bot", "Twitter", "art"]
+  },
+  {
     "name": "Electric Seance",
     "url": "https://makerfaire.com/maker/entry/59965/",
     "description": "A conversation-based ghost story &mdash; Maker Faire 2017",
