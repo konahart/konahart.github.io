@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Electric Seance",
+    "url": "https://makerfaire.com/maker/entry/59965/",
+    "description": "A conversation-based ghost story &mdash; Maker Faire 2017"
+  },
+  {
+    "name": "Stranger Things SparkCore",
+    "url": "/Stranger-Things-SparkCore",
+    "description": "Web-controlled Stranger Things lights",
+    "tags": [
+      "hardware",
+      "lights",
+      "Stranger Things",
+      "maker",
+      "microcontroller",
+      "SparkCore"
+    ]
+  },
+  {
+    "name": "Promptbot",
+    "url": "/promptbot",
+    "description": "An irc bot for writers",
+    "tags": ["irc", "bot", "chatbot"]
+  }
+]

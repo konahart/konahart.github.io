@@ -7,8 +7,9 @@ title: Kona Goodhart, Software engineer &mdash; Computational linguist
 <div class="top section" id="Projects">
   <h2>Projects</h2>
   <ul>
-    <li><h3><a href="/Stranger-Things-SparkCore">Stranger Things SparkCore</a></h3> &raquo; Web-controlled Stranger Things lights</li>
-    <li><h3><a href="/promptbot">Promptbot</a></h3> &raquo; An irc bot for writers</li>
+    {% for project in site.data.projects limit:3 %}
+    <li><h3><a href="{{ project.url }}" class="accent">{{ project.name }}</a></h3> &raquo; {{ project.description }}</li>
+    {% endfor %}
   </ul>
 </div>
 <hr>
