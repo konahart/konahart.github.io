@@ -1,18 +1,22 @@
-safe:        false
-port:        4000
+safe: false
+port: 4000
 
-source:      .
+source: .
 destination: ./_site
 
-future:      true
-lsi:         false
+future: true
+lsi: false
 highlighter: rouge
-markdown:    kramdown
-permalink:   /:year/:month/:title
+markdown: kramdown
+permalink: /:year/:month/:title
 
+title: Laurel Kona Goodhart
 description: Software engineer - Computational linguist
+base: https://konahart.com
+author: Laurel Kona Goodhart
+email: hi@konahart.com
 
-exclude:     [_drafts, _site, scripts]
+exclude: [_drafts, _site, scripts]
 collections:
   projects:
     output: true
