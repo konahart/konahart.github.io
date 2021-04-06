@@ -1,7 +1,7 @@
 [
   {
     "name": "generativiTea",
-    "url": "/2021/04/generativiTea",
+    "url": "/generativiTea/",
     "description": "Art bot that tweets about small batch, RNN-tisanal teas",
     "tags": ["RNN", "deep learning", "bot", "Twitter", "art"]
   },

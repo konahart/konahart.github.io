@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /generativiTea/
 title: 'GenerativiTea : Creating a little Teabot, short & stout'
 ---
 
